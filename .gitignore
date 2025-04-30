@@ -181,7 +181,6 @@ cv_04_24.pdf
 AgentHistoryList.json
 *.gif
 gcp-login.json
-.vscode
 .ruff_cache
 .idea
 *.txt
@@ -191,3 +190,6 @@ gcp-login.json
 *.jsonl
 
 uv.lock
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
